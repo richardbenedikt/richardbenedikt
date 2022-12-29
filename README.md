@@ -1,6 +1,6 @@
 **Hey, I'm Richard Braun!** 👋
 
-I'm a professional full stack web developer working in Cologne. :computer:
+I'm a full stack web developer working in Cologne. :computer:
 
 <!---
 richardbenedikt/richardbenedikt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
