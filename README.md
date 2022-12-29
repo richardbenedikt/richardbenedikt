@@ -1,13 +1,8 @@
-placeholder
+**Hey, I'm Richard Braun!** 👋
 
+I'm a full stack web developer. Mainly preferring the work with Python on the backend. :computer:
 
 <!---
-
-- 👋 Hi, I’m @richardbenedikt
-- 👀 I’m interested in web development, primary with python
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on open source projects
-
 richardbenedikt/richardbenedikt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
