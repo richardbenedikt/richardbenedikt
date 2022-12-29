@@ -1,6 +1,6 @@
 **Hey, I'm Richard Braun!** 👋
 
-I'm a professional full stack web developer working in Cologne. :cityscape: Although I'm currently active as full stack developer I prefer the backend-work, mainly with Python. :computer:
+I'm a professional full stack web developer working in Cologne. :computer:
 
 <!---
 richardbenedikt/richardbenedikt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
