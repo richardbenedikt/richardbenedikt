@@ -1,4 +1,4 @@
-**Hey, I'm Richard!** 👋
+**Hey, I'm Richard!**
 
 I'm a full stack developer working in Cologne, Germany. :computer:
 
