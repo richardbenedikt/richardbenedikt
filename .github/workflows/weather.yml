@@ -12,11 +12,13 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Fetch weather
         run: |
-          weather=$(curl -fsS --get "https://wttr.in/Cologne" --data-urlencode "format=%c %t" | tr -d '\n')
+          metric=$(curl -fsS --get "https://wttr.in/Cologne?m" --data-urlencode "format=%c %t" | tr -d '\n')
+          imperial=$(curl -fsS --get "https://wttr.in/Cologne?u" --data-urlencode "format=%t" | tr -d '\n')
+          weather="$metric / $imperial"
           {
             echo "WEATHER<<EOF"
             echo "$weather"
