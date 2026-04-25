@@ -8,7 +8,7 @@
 
 ### About
 
-I build web applications end-to-end. From APIs and data layers to frontends. Lately I've been spending a lot of time on LLM-assisted tooling with **LangChain**, alongside the usual full-stack work in **Python** and **TypeScript**.
+I build web applications end-to-end. From APIs and data layers to frontends. Lately I've been spending a lot of time on LLM-assisted tooling, alongside the usual full-stack work in **Python** and **TypeScript**.
 
 Around 8 years deep in the **Plone** ecosystem — shipping production sites and custom add-ons. Linux has been my daily driver since 2015 (Ubuntu and Arch), and I'm happiest in a terminal.
 
