@@ -8,12 +8,9 @@
 
 ### About
 
-I build web applications end-to-end, covering APIs, data layers, and frontends, though backend is where I'm most at home. Lately I've been spending a lot of time on LLM-assisted tooling, alongside the usual full-stack work in **Python** and **TypeScript**.
+I am a **full-stack developer** with 8 years of professional experience, focusing primarily on **Python** backend development. A large part of this expertise comes from years of developing and maintaining complex projects with the open-source CMS **Plone**. While my technical foundation relies on years of solid "pre-AI" software engineering, I have recently also been integrating LLMs into both my personal and professional work.
 
-Around 8 years deep in the **Plone** ecosystem, shipping production sites and custom add-ons. Linux has been my daily driver since 2015 (Ubuntu and Arch), and I'm happiest in a terminal.
-
----
-
+Since around 2015, Linux (Arch and Ubuntu) has been my daily driver for both personal computing and professional development.
 
 ### Tech stack
 
