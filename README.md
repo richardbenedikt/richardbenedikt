@@ -12,6 +12,8 @@ I am a **full-stack developer** with 8 years of professional experience, focusin
 
 Since around 2015, Linux (Arch and Ubuntu) has been my daily driver for both personal computing and professional development.
 
+Most of my development is in private or company repositories. The public repos here are small tools I built for my own use and made public in case they help someone else.
+
 ### Tech stack
 
 **Languages**
