@@ -1,7 +1,7 @@
 <h1 align="center">Richard B.</h1>
 
 <p align="center">
-  <em>Full-stack developer · Cologne, Germany<!--WEATHER--> · 🌤️ +30°C / +86°F<!--/WEATHER--></em>
+  <em>Full-stack developer · Cologne, Germany<!--WEATHER--> · ☀️ +31°C / +88°F<!--/WEATHER--></em>
 </p>
 
 ---
